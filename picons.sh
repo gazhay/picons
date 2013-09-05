@@ -6946,6 +6946,7 @@ ln -s skysportshd1uk.png 1_0_19_FA1_7D2_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_F26_7D1_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_F29_7D1_2_11A0000_0_0_0.png
 ln -s skysportshd2uk.png 1_0_19_FA2_7D2_2_11A0000_0_0_0.png
+ln -s skysportshd2uk.png 1_0_19_F26_7F1_2_11A0000_0_0_0.png
 
 # skysportshd3uk
 ln -s skysportshd3uk.png 1_0_19_EEE_7F2_2_11A0000_0_0_0.png
